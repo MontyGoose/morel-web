@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Apply"
+    url: /Apply/
+  - title: "Contact Us"
+    url: /contct-us/
